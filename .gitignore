@@ -1,0 +1,18 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+
+# Log files
+*.log
